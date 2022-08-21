@@ -1,0 +1,11 @@
+.header{
+  width:50rem;
+  margin:1rem auto;
+ 
+  text-align:center;
+}
+
+.header_text{
+  font-family:'verdana';
+  color:#3c3c3c
+}
